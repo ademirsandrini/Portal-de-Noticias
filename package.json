@@ -1,0 +1,11 @@
+{
+  "name": "portal-de-noticias",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write \"**/*.{html,css,js,jsx,ts,tsx,json,md}\""
+  },
+  "devDependencies": {
+    "prettier": "^3.9.1"
+  }
+}

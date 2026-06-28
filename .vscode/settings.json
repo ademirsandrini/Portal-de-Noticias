@@ -1,4 +1,6 @@
 {
+  "editor.rulers": [],
+  "cSpell.enabled": false,
   "livePreview.defaultPreviewPath": "/index.html",
   "editor.quickSuggestions": {
     "comments": "on",
