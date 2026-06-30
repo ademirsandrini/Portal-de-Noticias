@@ -5,7 +5,6 @@
 }
 
 :root {
-  --brand-color: #60a5fa;
   --brand-color-light: #60a5fa;
   --brand-color-dark: #1d4ed8;
   --bg-color: #0f172a;
@@ -59,7 +58,7 @@ main {
 
 .content-tag {
   display: inline-block;
-  background-color: var(--brand-color-light);
+  background-color: var(--brand-color-dark);
   padding: 4px 8px;
   border-radius: 4px;
   font: 500 10px/1.2 var(--font-family);
