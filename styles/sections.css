@@ -14,7 +14,7 @@ section header {
       height: 16px;
     }
 
-    &::hover span {
+    &:hover span {
       background-image: url(../assets/icons/ArrowRight-rover.svg);
     }
   }
@@ -67,7 +67,7 @@ section header {
   figure {
     position: relative;
 
-    content-tag {
+    .content-tag {
       position: absolute;
       top: 8px;
       left: 8px;
@@ -75,7 +75,7 @@ section header {
 
     p {
       margin-top: 8px;
-      font-weight: 900;
+      font-weight: 800;
     }
   }
 }
